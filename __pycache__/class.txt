@@ -1,0 +1,11 @@
+Fee Balances for All Students
+
+Roll No	Name	Class	Fees Paid	Fees Due
+------------------------------------------------------------
+110	Jane Small	PP1	2500	1000
+111	Peter parker	PP1	0	3500
+101	MOHA SULE	PP2	3500	0
+102	John doe	PP2	900	2600
+103	Jane smith	PP2	600	2900
+112	James Bond	PP2	2500	1000
+104	David km	PP3	2000	1500
